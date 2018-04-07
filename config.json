@@ -1,0 +1,25 @@
+{
+	"token" : "TOKEN",
+
+	"botname":	"LastOrder",
+
+	"playgame": "Overwatch",
+
+	"bot_prefixes" : [
+		"lastorder", 
+		"order"
+	],
+
+	"bot_short_commands" : [
+		"qe"
+	],
+
+	"opt_commands" : [
+		"qa"
+	],
+
+	"switcher" : {
+		"mfb"	: "message_from_bot",
+		"qe"	: "quote_multiline"
+	}
+}
